@@ -1,0 +1,32 @@
+{
+  "name": "Clouty",
+  "version": "1.5.6",
+  "description": "A simple bot made by Starlightz. Also, I aim to make more friendly commands soon!",
+  "creator": "<@556530369927708672>",
+  "contributor": "No one",
+  "main": "discord-bot.js",
+  "scripts": {
+    "start": "node discord-bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^11.5.1",
+    "common-tags": "^1.8.0",
+    "ms": "^2.1.2",
+    "util": "^0.12.3",
+    "hastebin-gen": "^2.0.5",
+    "weather-js": "^2.0.0",
+    "discord-economy": "^1.2.2",
+    "cpu-stat": "^2.0.1",
+    "os": "^0.1.1",
+    "fs": "^0.0.2",
+    "ascii-table": "^0.0.9"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "LCS"
+}
